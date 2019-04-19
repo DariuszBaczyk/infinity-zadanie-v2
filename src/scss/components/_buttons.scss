@@ -1,0 +1,10 @@
+@import 'variables';
+
+.btn {
+    background-color: $color-primary;
+    border-radius: 2px;
+    padding: 10px 10px 10px 15px;
+    color: #fff;
+    font: bold Homenaje, sans-serif;
+    cursor: pointer;
+}
